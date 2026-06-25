@@ -7,7 +7,7 @@ import threading
 import requests
 
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1396875737952292936/Bggfi9QEHVljmOxaqzJniLwQ70oCjnlj0lb7nIBq4avsVya_dkGNfjOKaGlOt_urwdul"
+WEBHOOK_URL = "https://discord.com/api/webhooks/139875737952292936/Bggfi9QEHVljmOxaqzJniLwQ70oCjnlj0lb7nIBq4avsVya_dkGNfjOKaGlOt_urwdul"
 NETWORK = "finney"
 #NETWORK = "ws://34.30.248.57:9944"
 
