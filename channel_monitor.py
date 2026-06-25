@@ -342,7 +342,7 @@ def main():
     }
     # with open("channel_list_1.json", "r", encoding="utf-8") as f:
     #     CHANNEL_LIST = json.load(f)
-    BOT_TOKEN = "MQ3ODU1NTE4MzI4MDU1ODIyMg.G0NX4m.SxhJEfPbzcm2MAW292BWV5KfuKtaL1UpBKgNuc"  # Your bot token
+    BOT_TOKEN = ""  # Your bot token
     WEBHOOK_URL = "https://discord.com/api/webhooks/144052851142951184/aGpF3B6znsX4noqvR5yyLBptvdhbGj4tp3SPbBmFWCFcwADFkmpGbuFLywqNENzGkck"  # Replace with your webhook URL
 
     # List of user IDs to monitor (from your output example)
